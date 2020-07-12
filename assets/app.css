@@ -1,5 +1,5 @@
 :root {
-    background-color: #ecf5ff;
+    background-color: lightskyblue;
     font-size: 62.5%;
   }
   
@@ -8,7 +8,7 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    color: #333;
+    color:darkslategray;
   }
   
   h1,
@@ -20,7 +20,7 @@
   
   h1 {
     font-size: 5.4rem;
-    color: #56a5eb;
+    color: lightslategray;
     margin-bottom: 5rem;
   }
   
@@ -85,10 +85,10 @@
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #56a5eb;
+    border: 0.1rem solid lightslategray;
     margin-bottom: 1rem;
     text-decoration: none;
-    color: #56a5eb;
+    color: lightslategray;
     background-color: white;
   }
   
