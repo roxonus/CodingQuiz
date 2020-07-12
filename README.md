@@ -1,1 +1,4 @@
 # CodingQuiz
+
+![](assets/Codingquiz.png)
+
